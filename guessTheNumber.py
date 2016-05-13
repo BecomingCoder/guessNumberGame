@@ -1,4 +1,5 @@
 # Try to guess the random number
+
 import random
 
 guessesTaken = 0
